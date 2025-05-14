@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "1064882174203",
+    "project_id": "enfermagemapp-be8f9",
+    "storage_bucket": "enfermagemapp-be8f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064882174203:android:0534aa05fe385d8133d85e",
+        "android_client_info": {
+          "package_name": "com.galaxies.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1064882174203-o73pvj1s8f9g21lq4tn53ka6onj3h4r7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.galaxies.firebase",
+            "certificate_hash": "d88db08cc34b5b4c5a1443a3c3402c131e8c5053"
+          }
+        },
+        {
+          "client_id": "1064882174203-r7ag9jov2i151giucafmheg4b2fo7itl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-Jtsus_1-JNMxmfrp1tPDE2-iMuYNxn4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1064882174203-r7ag9jov2i151giucafmheg4b2fo7itl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1064882174203-kg390s4hcq6pt6r3n50sc5laqq5sq0qf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.galaxies.firebase"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
